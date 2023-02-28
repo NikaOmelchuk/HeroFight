@@ -1,0 +1,6 @@
+C:\Users\Саша\Desktop\Визуалка\кпз\Heroes\HeroLib\bin\Debug\HeroLib.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Heroes\HeroLib\bin\Debug\HeroLib.pdb
+C:\Users\Саша\Desktop\Визуалка\кпз\Heroes\HeroLib\obj\Debug\HeroLib.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Heroes\HeroLib\obj\Debug\HeroLib.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Heroes\HeroLib\obj\Debug\HeroLib.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Heroes\HeroLib\obj\Debug\HeroLib.pdb
